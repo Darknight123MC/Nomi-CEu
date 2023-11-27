@@ -1,0 +1,11 @@
+Remove ContentTweaker.zs
+Remove HandFramingTool.zs
+Remove lines 143-157 in HandFraming.zs
+Remove lines 6&7 in electronics.zs
+Add Nomi Labs Jar
+Remove Content Tweaker Jar
+Remove Content Tweaker overrided resources
+remove line 7 in nuclearcraft.zs?
+Remove line 5 in ThermalExpansion.zs
+Remove lines 5,6,7 in solars.zs
+Remove gregtech and contenttweaker resources folders
